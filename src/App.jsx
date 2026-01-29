@@ -12,7 +12,7 @@ function App() {
 
 
   return (
-    <div className=" min-h-screen text-zinc-100 bg-zinc-900">
+    <div className=" min-h-screen text-zinc-100 bg-[##010101]">
       <Navbar />
       <main className="min-h-screen">
         {/* {Pages Section} */}

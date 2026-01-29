@@ -1,9 +1,13 @@
 import React from 'react'
 import HeroSection from '../section/HeroSection'
+import ServiceSection from '../section/ServiceSection'
 
 function HomePage() {
   return (
-    <div><HeroSection/></div>
+    <div>
+      <HeroSection/>
+      <ServiceSection/>
+      </div>
   )
 }
 
