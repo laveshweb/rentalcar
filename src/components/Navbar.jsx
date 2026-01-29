@@ -17,11 +17,11 @@ function Navbar() {
   // const Navlink Data
   const navLinks = [
     {
-      name: "home",
+      name: "Home",
       path: "/"
     },
     {
-      name: "fleet",
+      name: "Fleet",
       path: "/fleet"
     },
     {
